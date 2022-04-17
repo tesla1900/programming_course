@@ -1,4 +1,4 @@
-#Programming in Python BCGS Summer 2022
+# Programming in Python BCGS Summer 2022
 This is the repository of Shravani, PAarth and Moritz (SPAM), to work on exercises and projects together.
 
 ## Here are some important things to note
