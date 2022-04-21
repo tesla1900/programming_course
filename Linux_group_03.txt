@@ -1,0 +1,52 @@
+Exercise 1:
+
+1. pwd
+
+2. echo $SHELL
+
+3. emacs 
+
+4. 
+
+5. mkdir test1
+
+6. cp me.txt me_copy.txt
+
+7. absolute path 
+
+8. cd .. (to leave the current directory)
+    cd /home/shravani (home directory)
+
+9. mv me_copy.txt me_renames.txt
+
+10. echo "18 January, 1999" >> me_copy.txt
+
+11. diff me.txt me_copy.txt 
+
+12. ls -lsrh
+
+13. ssh s6shpand@cip-pool.physik.uni-bonn.de
+
+14. scp /home/shravani/Desktop/Summer_Semester2022/Python/me_copy.txt /home/s6shpand/physik  (did not work)
+
+15. rm -rf * (when in the directory of course)
+
+16. tar -czf archive-name.tar.gz me.txt
+
+17. 
+
+Exercise 2:
+
+1. 
+
+2. awk '{print $1 + $2}' sum.txt   (sum.txt was the file with two columns)
+
+3. sort -n $1 sum.txt (worked for the first column, not for the second)
+
+4. find . -name '*.txt'
+
+5. find . -name '*.txt'|wc - l 
+
+6. ls -lSr
+
+7. 
