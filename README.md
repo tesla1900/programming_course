@@ -1,4 +1,4 @@
-# Programming in Python BCGS Summer 2022
+j Programming in Python BCGS Summer 2022
 This is the repository of Shravani, PAarth and Moritz (SPAM), to work on exercises and projects together.
 
 ## Here are some important things to note
@@ -21,13 +21,15 @@ Another, much simpler way to do this is the following:
 ```
 git clone --recurse-submodules https://github.com/tesla1900/programming_course
 ```
-This is should set-up the repo with the submodules automatically. 
+This should set-up the repo with the submodules automatically. 
 
 ## Pulling changes to the submodule (should be done every week)
 `git pull` will only pull changes made to this repo, not the submodule. In order to pull changes for that as well, run the following: 
 ```
-git submodule update --init --recursive
+cd Programming_in_Python_BCGS_Summer_2022 
+git pull
 ```
+To push these changes to the main/branch, do so by doing the usual, add, commit and push. 
 
 ## Git and github
 Lastly, if you want to refresh your git and github, you can refer to these two notion articles: [git](https://www.notion.so/zarkom/Introduction-to-Git-ac396a0697704709a12b6a0e545db049) and [github](https://www.notion.so/zarkom/Introduction-to-GitHub-202af6f64bbd4299b15f238dcd09d2a7#d3eed927ff77484b84005d0e06709888). 
