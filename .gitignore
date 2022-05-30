@@ -472,3 +472,8 @@ TSWLatexianTemp*
 
 # xwatermark package
 *.xwm
+
+# data files for project 2 
+project/data/ice_data/
+project/data/ice_data_2022.tgz
+project/data/ice_data_area.npy
